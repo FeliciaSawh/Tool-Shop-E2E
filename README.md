@@ -7,8 +7,6 @@ This repository contains **end-to-end tests** for an Tool Store website using **
 ## 📌 Features
 ✅ UI and Functional Testing  
 ✅ Page Object Model (POM) implementation  
-✅ Automated regression tests  
-✅ Headless and headed test execution  
 
 ---
 
